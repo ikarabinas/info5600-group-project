@@ -1,0 +1,126 @@
+--------------Prediction target: parent_report_si_dx---------------
+5-fold Cross-Validation F1 scores on train set: [0. 0. 0. 0. 0.]
+Mean Cross-Validation F1: 0.0
+Test Accuracy: 0.9040404040404041
+Test F1 Score: 0.014814814814814815
+Test Precision: 1.0
+Test Recall (Sensitivity): 0.007462686567164179
+Test Specificity: 1.0
+Test AUC: 0.5064315006437461
+--------------Prediction target: parent_report_sa_dx---------------
+5-fold Cross-Validation F1 scores on train set: [0. 0. 0. 0. 0.]
+Mean Cross-Validation F1: 0.0
+Test Accuracy: 0.9812409812409812
+Test F1 Score: 0.0
+Test Precision: 0.0
+Test Recall (Sensitivity): 0.0
+Test Specificity: 1.0
+Test AUC: 0.5671097285067874
+--------------Prediction target: parent_report_mood_dx---------------
+5-fold Cross-Validation F1 scores on train set: [0.         0.         0.01818182 0.01886792 0.        ]
+Mean Cross-Validation F1: 0.007409948542024014
+Test Accuracy: 0.9018759018759018
+Test F1 Score: 0.014492753623188406
+Test Precision: 0.16666666666666666
+Test Recall (Sensitivity): 0.007575757575757576
+Test Specificity: 0.9960127591706539
+Test AUC: 0.5081375960562563
+--------------Prediction target: parent_report_psychotic_dx---------------
+5-fold Cross-Validation F1 scores on train set: [0. 0. 0. 0. 0.]
+Mean Cross-Validation F1: 0.0
+Test Accuracy: 0.9834054834054834
+Test F1 Score: 0.0
+Test Precision: 0.0
+Test Recall (Sensitivity): 0.0
+Test Specificity: 1.0
+Test AUC: 0.5188363265175923
+--------------Prediction target: parent_report_anxiety_dx---------------
+5-fold Cross-Validation F1 scores on train set: [0.27130435 0.22550832 0.2160149  0.23593466 0.24734982]
+Mean Cross-Validation F1: 0.23922241018067378
+Test Accuracy: 0.6240981240981242
+Test F1 Score: 0.2235469448584203
+Test Precision: 0.36231884057971014
+Test Recall (Sensitivity): 0.16163793103448276
+Test Specificity: 0.8568329718004338
+Test AUC: 0.507266110030668
+--------------Prediction target: parent_report_eating_dx---------------
+5-fold Cross-Validation F1 scores on train set: [0. 0. 0. 0. 0.]
+Mean Cross-Validation F1: 0.0
+Test Accuracy: 0.9812409812409812
+Test F1 Score: 0.0
+Test Precision: 0.0
+Test Recall (Sensitivity): 0.0
+Test Specificity: 1.0
+Test AUC: 0.6974830316742082
+--------------Prediction target: parent_report_adhd_dx---------------
+5-fold Cross-Validation F1 scores on train set: [0.         0.04137931 0.04195804 0.02816901 0.01438849]
+Mean Cross-Validation F1: 0.025178971119201938
+Test Accuracy: 0.8679653679653679
+Test F1 Score: 0.010810810810810811
+Test Precision: 0.1
+Test Recall (Sensitivity): 0.005714285714285714
+Test Specificity: 0.9925681255161024
+Test AUC: 0.5467547481420315
+--------------Prediction target: parent_report_autism_dx---------------
+5-fold Cross-Validation F1 scores on train set: [0.05263158 0.07179487 0.06382979 0.0212766  0.05181347]
+Mean Cross-Validation F1: 0.05226926104471086
+Test Accuracy: 0.8196248196248196
+Test F1 Score: 0.023437499999999997
+Test Precision: 0.1111111111111111
+Test Recall (Sensitivity): 0.013100436681222707
+Test Specificity: 0.9792566983578219
+Test AUC: 0.569659524519443
+--------------Prediction target: parent_report_disruptive_dx---------------
+5-fold Cross-Validation F1 scores on train set: [0.         0.         0.01449275 0.01449275 0.01492537]
+Mean Cross-Validation F1: 0.008782176076141032
+Test Accuracy: 0.8751803751803752
+Test F1 Score: 0.022598870056497175
+Test Precision: 0.2222222222222222
+Test Recall (Sensitivity): 0.011904761904761904
+Test Specificity: 0.9942528735632183
+Test AUC: 0.5326843381030573
+--------------Prediction target: parent_report_tic_dx---------------
+5-fold Cross-Validation F1 scores on train set: [0. 0. 0. 0. 0.]
+Mean Cross-Validation F1: 0.0
+Test Accuracy: 0.9949494949494949
+Test F1 Score: 0.0
+Test Precision: 0.0
+Test Recall (Sensitivity): 0.0
+Test Specificity: 1.0
+Test AUC: 0.5297834869988605
+--------------Prediction target: parent_report_sud_dx---------------
+5-fold Cross-Validation F1 scores on train set: [0. 0. 0. 0. 0.]
+Mean Cross-Validation F1: 0.0
+Test Accuracy: 0.9942279942279942
+Test F1 Score: 0.0
+Test Precision: 0.0
+Test Recall (Sensitivity): 0.0
+Test Specificity: 1.0
+Test AUC: 0.6829644412191582
+--------------Prediction target: parent_report_ptsd_dx---------------
+5-fold Cross-Validation F1 scores on train set: [0. 0. 0. 0. 0.]
+Mean Cross-Validation F1: 0.0
+Test Accuracy: 0.9653679653679653
+Test F1 Score: 0.0
+Test Precision: 0.0
+Test Recall (Sensitivity): 0.0
+Test Specificity: 1.0
+Test AUC: 0.5614256352765322
+--------------Prediction target: parent_report_sleep_dx---------------
+5-fold Cross-Validation F1 scores on train set: [0.01960784 0.         0.         0.         0.        ]
+Mean Cross-Validation F1: 0.00392156862745098
+Test Accuracy: 0.9004329004329005
+Test F1 Score: 0.0
+Test Precision: 0.0
+Test Recall (Sensitivity): 0.0
+Test Specificity: 0.9960095770151636
+Test AUC: 0.5311583027800947
+--------------Prediction target: parent_report_homicide_dx---------------
+5-fold Cross-Validation F1 scores on train set: [0. 0. 0. 0. 0.]
+Mean Cross-Validation F1: 0.0
+Test Accuracy: 0.9942279942279942
+Test F1 Score: 0.0
+Test Precision: 0.0
+Test Recall (Sensitivity): 0.0
+Test Specificity: 1.0
+Test AUC: 0.5639513788098693
